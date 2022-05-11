@@ -4,7 +4,7 @@
 
 ## Installation
 
-    npm i numbertotext
+    npm i number-to-text
 
 ## Usage
 
